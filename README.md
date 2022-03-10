@@ -15,6 +15,7 @@
 <img width="800" alt="Screen Shot 2022-03-10 at 22 23 24" src="https://user-images.githubusercontent.com/55647212/157739273-07fba5bd-eeac-42b7-9b86-dad00667099f.png">
 <img width="800" alt="Screen Shot 2022-03-10 at 22 23 31" src="https://user-images.githubusercontent.com/55647212/157739510-7e41d902-3a5f-42b7-a227-5d022f261c9e.png">
 <img width="800" alt="Screen Shot 2022-03-10 at 22 23 43" src="https://user-images.githubusercontent.com/55647212/157739527-f1d33759-9281-485f-ac91-99a11dced1c6.png">
+
 ### Data statistics
 **ID** | **All reads** | **Uniqie (%)** | **Not Uniqie** | **Misaligned** 
 ------------ | ------------- | ------------- | ------------- | ------------- 
