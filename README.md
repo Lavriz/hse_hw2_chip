@@ -3,12 +3,12 @@
 ### FastQC
 >Не делалось подрезание файлов, так как в основном все параметры были в норме, однако качество **Per Sequence GC Content**, **Per base sequence content** было не совсем идеальным.
 
-##### ENCFF001QWW
+##### ENCFF001QWW – Total Sequences: 21099652
 <img width="800" alt="Screen Shot 2022-03-10 at 22 19 19" src="https://user-images.githubusercontent.com/55647212/157738643-9df3f9ea-708b-47f8-807e-e52c60936030.png">
 <img width="800" alt="Screen Shot 2022-03-10 at 22 19 39" src="https://user-images.githubusercontent.com/55647212/157738794-4c55702e-b412-473a-b97a-6df3a362e1ce.png">
 <img width="800" alt="Screen Shot 2022-03-10 at 22 19 31" src="https://user-images.githubusercontent.com/55647212/157738719-cee325a4-3d7d-4421-82c9-7d78b1edd4ee.png">
 
-##### ENCFF001QWX
+##### ENCFF001QWX – Total Sequences: 46226003
 <img width="800" alt="Screen Shot 2022-03-10 at 22 22 16" src="https://user-images.githubusercontent.com/55647212/157738953-f9c18034-09fc-49af-b3ce-b39a1a0f16a1.png">
 
 ##### ENCFF283HQV
