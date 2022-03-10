@@ -30,4 +30,6 @@ ENCFF283HQV | 10424077 | 546743 (5.25%) | 1349469 (12.95%) | 8527865 (81.81%)
 ### Venn Diagrams
 > Как можно объяснить различия в количестве пересечений?
 
-Сначала мы накладываем пики из 1 файла на пики из 2 и наоборот: то есть в первый раз мы берем пики из 1 файла и смотрим, что есть из 1 во втором, а во 2 раз наоборот 
+Сначала мы накладываем пики из 1 файла на пики из 2 и наоборот: то есть в первый раз мы берем пики из 1 файла и смотрим, что есть из 1 во втором, а во 2 раз наоборот. 
+
+Интересно, что [здесь](https://bioinformatics.stackexchange.com/questions/13108/how-to-make-venn-diagram-for-the-macs-peak-calling-output-of-two-data-sets) объясняется тот факт, что, возможно, Venn Diagrams не совсем подходят для Peak Calling: *"Suffice to say, asking "which peaks are shared?" is not the same as asking "is there evidence for differential peaks, and where are they?"*
